@@ -1,0 +1,12 @@
+
+Code sources that we used 
+1. https://github.com/EXJUSTICE/Optimized_DQN_OpenAI_SpaceInvaders/blob/master/TF2_SpaceInvaders_GC.ipynb?fbclid=IwAR2BTmO7GoyeJdKxsvfFQTot96PF4-fo4pLBLplJoR81uD3zY_8tfbzXsss
+2. https://colab.research.google.com/drive/1DggF1gE3FjRu4ftYhYoxQCxLIOaxwVyw#scrollTo=9zjDXRLmHWB-
+3. Mario Code from class 
+
+
+
+
+Text sources that we used
+https://nihit.github.io/resources/spaceinvaders.pdf
+https://www.freecodecamp.org/news/explained-simply-how-deepmind-taught-ai-to-play-video-games-9eb5f38c89ee/?fbclid=IwAR0cPYqE5oIGwbOp8YKaGR7tqncgeuStbdDCII2mG7DcHUAKWFAj7Ptf2iY
